@@ -1,0 +1,17 @@
+C:\Users\Acer\documents\visual studio 2015\Projects\ReflectionContainer\ReflectionContainerTest\bin\Debug\ReflectionContainerTest.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\ReflectionContainer\ReflectionContainerTest\bin\Debug\ReflectionContainerTest.pdb
+C:\Users\Acer\documents\visual studio 2015\Projects\ReflectionContainer\ReflectionContainerTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\ReflectionContainer\ReflectionContainerTest\bin\Debug\ReflectionContainer.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\ReflectionContainer\ReflectionContainerTest\bin\Debug\ReflectionContainer.pdb
+C:\Users\Acer\documents\visual studio 2015\Projects\ReflectionContainer\ReflectionContainerTest\obj\Debug\ReflectionContainerTest.csprojResolveAssemblyReference.cache
+C:\Users\Acer\documents\visual studio 2015\Projects\ReflectionContainer\ReflectionContainerTest\obj\Debug\ReflectionContainerTest.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\ReflectionContainer\ReflectionContainerTest\obj\Debug\ReflectionContainerTest.pdb
+C:\Users\Denis_Balashevich\Downloads\ReflectionContainer\ReflectionContainerTest\bin\Debug\ReflectionContainerTest.dll
+C:\Users\Denis_Balashevich\Downloads\ReflectionContainer\ReflectionContainerTest\bin\Debug\ReflectionContainerTest.pdb
+C:\Users\Denis_Balashevich\Downloads\ReflectionContainer\ReflectionContainerTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Denis_Balashevich\Downloads\ReflectionContainer\ReflectionContainerTest\bin\Debug\ReflectionContainer.dll
+C:\Users\Denis_Balashevich\Downloads\ReflectionContainer\ReflectionContainerTest\bin\Debug\ReflectionContainer.pdb
+C:\Users\Denis_Balashevich\Downloads\ReflectionContainer\ReflectionContainerTest\obj\Debug\ReflectionContainerTest.csprojResolveAssemblyReference.cache
+C:\Users\Denis_Balashevich\Downloads\ReflectionContainer\ReflectionContainerTest\obj\Debug\ReflectionContainerTest.csproj.CoreCompileInputs.cache
+C:\Users\Denis_Balashevich\Downloads\ReflectionContainer\ReflectionContainerTest\obj\Debug\ReflectionContainerTest.dll
+C:\Users\Denis_Balashevich\Downloads\ReflectionContainer\ReflectionContainerTest\obj\Debug\ReflectionContainerTest.pdb

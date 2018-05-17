@@ -1,0 +1,11 @@
+C:\Users\Acer\documents\visual studio 2015\Projects\ReflectionContainer\ReflectionContainer\bin\Debug\ReflectionContainer.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\ReflectionContainer\ReflectionContainer\bin\Debug\ReflectionContainer.pdb
+C:\Users\Acer\documents\visual studio 2015\Projects\ReflectionContainer\ReflectionContainer\obj\Debug\ReflectionContainer.csprojResolveAssemblyReference.cache
+C:\Users\Acer\documents\visual studio 2015\Projects\ReflectionContainer\ReflectionContainer\obj\Debug\ReflectionContainer.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\ReflectionContainer\ReflectionContainer\obj\Debug\ReflectionContainer.pdb
+C:\Users\Denis_Balashevich\Downloads\ReflectionContainer\ReflectionContainer\bin\Debug\ReflectionContainer.dll
+C:\Users\Denis_Balashevich\Downloads\ReflectionContainer\ReflectionContainer\bin\Debug\ReflectionContainer.pdb
+C:\Users\Denis_Balashevich\Downloads\ReflectionContainer\ReflectionContainer\obj\Debug\ReflectionContainer.csprojResolveAssemblyReference.cache
+C:\Users\Denis_Balashevich\Downloads\ReflectionContainer\ReflectionContainer\obj\Debug\ReflectionContainer.csproj.CoreCompileInputs.cache
+C:\Users\Denis_Balashevich\Downloads\ReflectionContainer\ReflectionContainer\obj\Debug\ReflectionContainer.dll
+C:\Users\Denis_Balashevich\Downloads\ReflectionContainer\ReflectionContainer\obj\Debug\ReflectionContainer.pdb
